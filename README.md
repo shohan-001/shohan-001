@@ -40,15 +40,24 @@
 
 ## 📊 GitHub Stats:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=shohan-001&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shohan-001&theme=tokyonight&hide_border=true" width="47%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shohan-001&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="70%" />
+</p>
 
-<br clear="both">
+---
+
+## 🔥 GitHub Streak:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shohan-001&theme=tokyonight&hide_border=false" width="70%" />
+</p>
 
 ---
 
 ## 🧠 Top Languages:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohan-001&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohan-001&layout=donut&theme=tokyonight&hide_border=false" width="60%" />
+</p>
 
 ---
