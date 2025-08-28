@@ -1,7 +1,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/shohan-001">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Shohan!;Electronic+%26+Computer+Science+Student;Designer+%7C+Tech+Explorer+%7C+Innovator;Always+learning+something+new!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+there+👋,+I'm+Shohan!;Electronic+%26+Computer+Science+Student;Designer+%7C+Tech+Explorer+%7C+Innovator;Always+learning+something+new!" />
   </a>
 </p>
 
@@ -61,8 +61,9 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shohan-001/shohan-001/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/shohan-001/shohan-001/blob/output/snake.svg" alt="snake animation" />
 </p>
+
