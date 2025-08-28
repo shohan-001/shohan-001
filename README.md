@@ -63,7 +63,5 @@
 
 ## 🐍 Contribution Snake  
 
-<p align="center">
-  <img src="https://github.com/shohan-001/shohan-001/blob/output/snake.svg" alt="snake animation" />
-</p>
+![Snake animation](https://github.com/shohan-001/shohan-001/blob/output/github-contribution-grid-snake.svg)
 
