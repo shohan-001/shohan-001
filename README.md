@@ -1,7 +1,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/shohan-001">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+there+👋,+I'm+Shohan!;Electronic+%26+Computer+Science+Student;Designer+%7C+Tech+Explorer+%7C+Innovator;Always+learning+something+new!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=800&color=00F0FF,F75C7E,9D00FF,39FF14&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I'm+Shohan!;Electronic+%26+Computer+Science+Student;Designer+%7C+Tech+Explorer+%7C+Innovator;Always+learning+something+new!" />
   </a>
 </p>
 
