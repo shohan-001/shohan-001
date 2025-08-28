@@ -1,6 +1,19 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Shohan!</h1>
-<h3 align="center">🎓 Electronic & Computer Science Student | 🎨 Designer | 💡 Tech Explorer</h3>
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/shohan-001">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Shohan!;Electronic+%26+Computer+Science+Student;Designer+%7C+Tech+Explorer+%7C+Innovator;Always+learning+something+new!" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me  
+
+- 🎓 Student at **University of Kelaniya**  
+- 🎨 Passionate about **Design + Technology**  
+- 💡 Exploring AI, Robotics, and Creative Coding  
+- 🌱 Currently learning **C++ & System Design**  
+- 📫 Reach me at **isharakashohan2003@gmail.com**  
 
 ---
 
@@ -26,7 +39,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,css,js,html,bash,gcp,mysql,figma,blender,ae,pr,ps,arduino,numpy,pandas,matplotlib&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,css,js,html,bash,gcp,mysql,figma,blender,ae,pr,ps,arduino,numpy,pandas,matplotlib&theme=dark" />
 </p>
 
 ---
@@ -34,8 +47,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shohan-001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=shohan-001&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shohan-001&show_icons=true&theme=radical&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=shohan-001&theme=radical" height="170"/>
 </p>
 
 ---
@@ -43,17 +56,8 @@
 ## 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohan-001&layout=donut&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohan-001&layout=donut&theme=radical" height="150"/>
 </p>
-
----
-
-## 🚀 About Me
-
-- 🎓 Student at **University of Kelaniya**  
-- 🎨 Passionate about **Design + Technology**  
-- 💡 Always curious to explore new things  
-- 📫 Reach me at **isharakashohan2003@gmail.com**
 
 ---
 
