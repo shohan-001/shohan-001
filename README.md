@@ -47,7 +47,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shohan-001&show_icons=true&theme=radical&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-zeta-seven-99.vercel.app/api?username=shohan-001&show_icons=true&theme=radical&count_private=true" height="170"/>
   <img src="https://streak-stats.demolab.com?user=shohan-001&theme=radical" height="170"/>
 </p>
 
@@ -56,7 +56,7 @@
 ## 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohan-001&layout=donut&theme=radical" height="150"/>
+  <img src="https://github-readme-stats-zeta-seven-99.vercel.app/api/top-langs/?username=shohan-001&layout=donut&theme=radical" height="150"/>
 </p>
 
 ---
