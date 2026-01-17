@@ -36,10 +36,10 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/isharaka-shohan-813483324/">
+  <a href="https://www.linkedin.com/in/isharakashohan/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://facebook.com">
+  <a href="https://facebook.com/isharaka2003/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://instagram.com">
