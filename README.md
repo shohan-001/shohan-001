@@ -3,37 +3,37 @@
 <!--  Theme: Terminal / Cybersecurity — dark bg, green accents, monospace       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <a href="https://github.com/shohan-001">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%24+whoami;isharaka-shohan" />
-  </a>
-</p>
+```bash
+🔴 🟡 🟢
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=15&duration=2500&pause=1000&color=30A14E&center=true&vCenter=true&width=850&height=60&multiline=true&lines=Electronics+%26+Computer+Science+undergraduate;Embedded+Systems+%26+Cybersecurity+enthusiast" />
-</p>
+$ whoami
+isharaka_shohan
+Electronics & CS undergrad | Cybersecurity learner
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shohan-001&style=flat-square&color=00ff41&labelColor=0d1117&label=views" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/shohan-001?style=flat-square&color=00ff41&labelColor=0d1117&label=followers" alt="Followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/shohan-001?style=flat-square&color=00ff41&labelColor=0d1117&label=stars" alt="Stars"/>
-</p>
+$ cat about.txt
+> B.Sc (Hons) Electronics & Computer Science — University of Kelaniya
+> Tech Lead, AWS Student Builder Group (2026/27)
+> Membership Coordinator, ECSC (2026/27)
 
----
+$ cat learning.txt
+> Cybersecurity Fundamentals
 
-### `> cat about.md`
+$ cat interests.txt
+> Embedded Systems · IoT · AI
 
-```text
-Isharaka Shohan is an Electronics & Computer Science undergraduate at the
-University of Kelaniya, Sri Lanka, pursuing a B.Sc (Hons) degree.
-Tech Lead of the AWS Student Builder Group and Membership Coordinator
-of the Electronics & Computer Science Club for the 2026/27 academic year.
-
-Interests : Embedded Systems · IoT · AI
-Learning  : Cybersecurity Fundamentals
+$ contact --list
+> github.com/shohan-001
+> linkedin.com/in/isharakashohan
+> isharakashohan2003@gmail.com
 ```
+
+<p align="center">
+  <a href="https://github.com/shohan-001?tab=followers"><img src="https://img.shields.io/github/followers/shohan-001?style=for-the-badge&color=00ff41&labelColor=0d1117&label=followers" alt="Followers"/></a>
+  &nbsp;
+  <a href="https://github.com/shohan-001"><img src="https://img.shields.io/github/stars/shohan-001?style=for-the-badge&color=00ff41&labelColor=0d1117&label=stars" alt="Stars"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=shohan-001&style=for-the-badge&color=00ff41&labelColor=0d1117&label=views" alt="Profile Views"/>
+</p>
 
 ---
 
@@ -149,23 +149,6 @@ Learning  : Cybersecurity Fundamentals
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohan-001&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8" alt="Top Languages"/>
 </p>
 
----
-
-### `> cat contact.md`
-
-<p align="center">
-  <a href="https://github.com/shohan-001">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00ff41" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/isharakashohan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00ff41" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:isharakashohan2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00ff41" alt="Email"/>
-  </a>
-</p>
 
 ---
 
