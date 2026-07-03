@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=16&duration=2500&pause=800&color=30A14E&center=true&vCenter=true&width=700&height=35&lines=Electronics+and+Computer+Science+Undergraduate+%7C+Embedded+Systems+and+Cybersecurity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=15&duration=2500&pause=1000&color=30A14E&center=true&vCenter=true&width=850&height=60&multiline=true&lines=Electronics+%26+Computer+Science+undergraduate;Embedded+Systems+%26+Cybersecurity+enthusiast" />
 </p>
 
 <p align="center">
