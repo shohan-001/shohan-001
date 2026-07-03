@@ -2,7 +2,7 @@
 <!-- HEADER BANNER -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b3a5c,100:3a86ff&height=200&section=header&text=Isharaka%20Shohan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Electronics%20%26%20Computer%20Science%20%7C%20Builder%20%7C%20Designer&descSize=16&descAlignY=55&descColor=94b8e8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b3a5c,100:3a86ff&height=200&section=header&text=Isharaka%20Shohan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Electronics%20and%20CS%20%7C%20Builder%20%7C%20Designer&descSize=16&descAlignY=55&descColor=94b8e8"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- BADGES -->
@@ -124,25 +124,32 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/shohan-001/enhanced-gdrive-index">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shohan-001&repo=enhanced-gdrive-index&theme=tokyonight&bg_color=0d1b2a&title_color=3a86ff&icon_color=3a86ff&text_color=94b8e8&border_color=1b3a5c&hide_border=false" alt="enhanced-gdrive-index"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/shohan-001/ffmpeg-video-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shohan-001&repo=ffmpeg-video-bot&theme=tokyonight&bg_color=0d1b2a&title_color=3a86ff&icon_color=3a86ff&text_color=94b8e8&border_color=1b3a5c&hide_border=false" alt="ffmpeg-video-bot"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/shohan-001/youtube-downloader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shohan-001&repo=youtube-downloader&theme=tokyonight&bg_color=0d1b2a&title_color=3a86ff&icon_color=3a86ff&text_color=94b8e8&border_color=1b3a5c&hide_border=false" alt="youtube-downloader"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/shohan-001/telegram-cloud-drive">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shohan-001&repo=telegram-cloud-drive&theme=tokyonight&bg_color=0d1b2a&title_color=3a86ff&icon_color=3a86ff&text_color=94b8e8&border_color=1b3a5c&hide_border=false" alt="telegram-cloud-drive"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/shohan-001/enhanced-gdrive-index">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shohan-001&repo=enhanced-gdrive-index&theme=tokyonight&bg_color=0d1b2a&title_color=3a86ff&icon_color=3a86ff&text_color=94b8e8&border_color=1b3a5c" alt="enhanced-gdrive-index"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/shohan-001/ffmpeg-video-bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shohan-001&repo=ffmpeg-video-bot&theme=tokyonight&bg_color=0d1b2a&title_color=3a86ff&icon_color=3a86ff&text_color=94b8e8&border_color=1b3a5c" alt="ffmpeg-video-bot"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/shohan-001/youtube-downloader">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shohan-001&repo=youtube-downloader&theme=tokyonight&bg_color=0d1b2a&title_color=3a86ff&icon_color=3a86ff&text_color=94b8e8&border_color=1b3a5c" alt="youtube-downloader"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/shohan-001/telegram-cloud-drive">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shohan-001&repo=telegram-cloud-drive&theme=tokyonight&bg_color=0d1b2a&title_color=3a86ff&icon_color=3a86ff&text_color=94b8e8&border_color=1b3a5c" alt="telegram-cloud-drive"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
